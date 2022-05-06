@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1639435637 source:c:\users\usuario\desktop\utf\ed\trabalho 5\arvore.c
+	"Arvore.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1639336615 source:c:\users\usuario\desktop\utf\ed\trabalho 5\main.c
+	"Arvore.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1639435558 c:\users\usuario\desktop\utf\ed\trabalho 5\arvore.h
+	<stdio.h>
+	<stdLib.h>
+
